@@ -1,0 +1,13 @@
+
+#imagenes{
+	visibility: hidden;	
+}
+
+#foto{	
+	position: fixed;	
+	height: 480px;
+	max-width: 720px;
+	top:0;
+    left:0;
+    z-index:-1;
+}
